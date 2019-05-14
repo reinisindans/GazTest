@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#dee4e4e4</color>
+    <color name="circle_fill">#D9dbe3f3</color>
+    <color name="circle_in_radius">#D97bb3ff</color>
+    <color name="circle_playing">#D9a3cf62</color>
+    <color name="light_green">#cbfdcb</color>
+    <color name="brownish">#936669</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+</resources>
